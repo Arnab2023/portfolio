@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Arnab2023/portfolio.git/static/css/main.c8796ab1.css",
+    "main.js": "/Arnab2023/portfolio.git/static/js/main.39f17c6d.js",
+    "static/media/portfolio2.png": "/Arnab2023/portfolio.git/static/media/portfolio2.33d06b368b4e6395030e.png",
+    "static/media/portfolio4.png": "/Arnab2023/portfolio.git/static/media/portfolio4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio1.png": "/Arnab2023/portfolio.git/static/media/portfolio1.b33adf772d54ab33e953.png",
+    "static/media/portfolio3.png": "/Arnab2023/portfolio.git/static/media/portfolio3.ca4192894d93b08ad3b5.png",
+    "static/media/me.jpg": "/Arnab2023/portfolio.git/static/media/me.59d338eb68335117bb2a.jpg",
+    "static/media/ui-design.png": "/Arnab2023/portfolio.git/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/Arnab2023/portfolio.git/index.html",
+    "main.c8796ab1.css.map": "/Arnab2023/portfolio.git/static/css/main.c8796ab1.css.map",
+    "main.39f17c6d.js.map": "/Arnab2023/portfolio.git/static/js/main.39f17c6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8796ab1.css",
+    "static/js/main.39f17c6d.js"
+  ]
+}
